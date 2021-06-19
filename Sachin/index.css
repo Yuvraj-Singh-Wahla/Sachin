@@ -1,0 +1,21 @@
+#maindiv1{
+    display: flex;
+    background-color: rgb(21, 155, 121);
+    padding: 5px;
+    width: 800px;
+    left: 350px;
+    position: relative;
+}
+#maindiv1>div{
+    padding: 5px;
+    color: aliceblue;
+
+}
+#div10{
+    background-color: black;
+}
+#maindiv3{
+    position: relative;
+    display: flex;
+    left: 360px;
+}
